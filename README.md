@@ -1,4 +1,4 @@
-# Text-based Hunt the Wumpus game made in Prolog
+# Text-based *Hunt the Wumpus* game made in Prolog
 
 ## Installation
 
@@ -14,7 +14,7 @@ start.
 
 I did not test the code on Windows or Linux. In both cases you will need [swi-prolog](https://www.swi-prolog.org/) and it should work, but if you have any problem please raise an issue.
 
-## What is Wumpus?
+## What is *Hunt the Wumpus*?
 
 Quoting [Wikipedia](https://en.wikipedia.org/wiki/Hunt_the_Wumpus) (June 26th 2021):
 
